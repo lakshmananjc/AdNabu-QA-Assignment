@@ -10,4 +10,4 @@
 1. Clone repository
 
 ```bash
-git clone <your_repo_link>
+git clone https://github.com/lakshmananjc/AdNabu-QA-Assignment.git
